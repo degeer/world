@@ -1,19 +1,29 @@
 ---
 - geometry:
     coordinates:
-    - 115.113
-    - -33.6400222
+      Longitude: 115.113
+      Latitude: -33.6400222
     type: Point
   properties:
     Google Maps URL: http://maps.google.com/?cid=15876238242921834086
+    Plus Code: 9457+X5 Quindalup, Western Australia, Australia
     Location:
       Address: 161 Commonage Rd, Quindalup WA 6281, Australia
       Business Name: Simmos Ice Creamery
       Country Code: AU
-      Geo Coordinates:
-        Latitude: "-33.6400222"
-        Longitude: '115.1130000'
-    Published: '2019-01-01T07:39:26Z'
-    Title: Simmos
-    Updated: '2019-01-01T11:50:01Z'
+    Title: Simmos Ice Creamery
+  type: Feature
+- geometry:
+    coordinates:
+      Longitude: 55.223312
+      Latitude: 25.143563
+    type: Point
+  properties:
+    Google Maps URL: https://g.page/cassette-dubai
+    Plus Code: 46VF+C8 Dubai
+    Location:
+      Address: THE COURTYARD - 4th St - Al Quoz - Dubai
+      Business Name: CASSETTE
+      Country Code: AE
+    Title: CASSETTE
   type: Feature
