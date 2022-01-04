@@ -27,3 +27,17 @@
       Country Code: AE
     Title: CASSETTE
   type: Feature
+- geometry:
+    coordinates:
+      Longitude: 55.600812
+      Latitude: 13.000438
+    type: Point
+  properties:
+    Google Maps URL: https://goo.gl/maps/q84GzHsmPge4iyEd6
+    Plus Code: J222+85 Malmö, Sweden
+    Location:
+      Address: Regementsgatan 2, 211 42 Malmö, Sweden
+      Business Name: Solde Kaffebar & Kafferosteri
+      Country Code: SE
+    Title: Solde Kaffebar & Coffee roasting
+  type: Feature
